@@ -1,0 +1,8 @@
+{
+  "name": "VeriTrust AI",
+  "description": "A comprehensive digital authenticity suite designed to restore trust in a synthetic world. Analyze text, images, and audio for provenance, intent, and confidence scores.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
